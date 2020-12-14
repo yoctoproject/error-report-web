@@ -1,0 +1,3 @@
+desc=Receive and visualize image build errors
+section=-Yocto Tools
+hide=0
